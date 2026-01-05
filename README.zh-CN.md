@@ -1,4 +1,4 @@
-# ⭐ LH Proxy Helper（SSH 代理辅助脚本）
+# ⭐ LH Proxy Helper —— 面向开发者的轻量级 SSH 代理辅助脚本
 
 🌐 语言：简体中文 | [English](README.md)
 
