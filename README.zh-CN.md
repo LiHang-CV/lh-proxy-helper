@@ -1,5 +1,10 @@
 # ⭐ LH Proxy Helper —— 面向开发者的轻量级 SSH 代理辅助脚本
 
+![License](https://img.shields.io/badge/license-MIT-green)
+![Shell](https://img.shields.io/badge/shell-bash-blue)
+![Platform](https://img.shields.io/badge/platform-linux%20%7C%20macOS-lightgrey)
+![Version](https://img.shields.io/badge/version-v0.1.0-blueviolet)
+
 🌐 语言：简体中文 | [English](README.md)
 
 > 一个面向开发者的轻量级 SSH 代理辅助脚本
