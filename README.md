@@ -1,4 +1,4 @@
-# ⭐ LH Proxy Helper
+# ⭐ LH Proxy Helper — Lightweight SSH Proxy Helper for Developers
 
 🌐 Language: English | [简体中文](README.zh-CN.md)
 
