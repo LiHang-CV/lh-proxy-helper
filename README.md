@@ -1,5 +1,10 @@
 # ⭐ LH Proxy Helper — Lightweight SSH Proxy Helper for Developers
 
+![License](https://img.shields.io/badge/license-MIT-green)
+![Shell](https://img.shields.io/badge/shell-bash-blue)
+![Platform](https://img.shields.io/badge/platform-linux%20%7C%20macOS-lightgrey)
+![Version](https://img.shields.io/badge/version-v0.1.0-blueviolet)
+
 🌐 Language: English | [简体中文](README.zh-CN.md)
 
 > A lightweight SSH-based proxy helper for developers
